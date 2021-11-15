@@ -1,5 +1,5 @@
 # Snake
-A simple snake game in javafx
+A simple snake game in javafx as my project for Object Oriented Programming class.
 
 
 
